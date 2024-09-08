@@ -8,5 +8,4 @@ print(grades)
 total_sum = sum(grades)
 total_num = len(grades)
 avg_grade = total_sum / total_num
-print(total_sum)
 print(avg_grade)
